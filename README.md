@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**ansidor-labs/ansidor-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+We are a community of independent automation experts and enthusiasts currently
+working on a number of solutions to boost your Ansible based automation
+pipelines. Our hope is to deliver novel ideas and introduce some new approaches
+to solving common automation challenges. Areas we want to cover include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- VM/instance provisioning and management
+- OS configuration management
+- Service provisioning and management (clustered also)
+- Doing all the above at scale, in heterogenous environments, and with event
+  driven reconciliation loops
+
+> [!NOTE]
+> Work is currently under way in private. As soon as we achieve the desired
+> level of maturity of some of our automation components, the work will be
+> made public.
